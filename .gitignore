@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+bearer
+*.db
+.env
+templates
+src/handlers/bearer
