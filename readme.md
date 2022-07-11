@@ -9,6 +9,3 @@ Create a ```.env``` file in the root directory :
 CLIENTID=<your twitch client ID>
 CLIENTSECRET=<your twitch client secret key>
 ```
-
----
-* Made with Node.js
